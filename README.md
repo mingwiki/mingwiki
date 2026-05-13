@@ -1,1 +1,1 @@
-<h3 align="center"><img src="https://komarev.com/ghpvc/?username=mingwiki&label=Profile%20views&color=0e75b6&style=flat" alt="mingwiki" /> Hi 👋, I'm mingwiki, a high school teacher && programmer && electronic engineer.</h3>
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=mingwiki&label=Views&color=0e75b6&style=flat" alt="mingwiki" /> Hi 👋, I'm mingwiki, a high school teacher && programmer && electronic engineer.</h3>
